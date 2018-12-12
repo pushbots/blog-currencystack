@@ -1,9 +1,9 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "clearip.io"
+title = "currencystack.io"
 Subtitle = "Your site's subtitle/tagline"
-GithubID = "clearip"
-TwitterID = "getclearip"
+GithubID = "currencystack"
+TwitterID = "getcurrencystack"
 AnalyticsID = "Your Google Analytics tracking code"
 DisqusShortname = "Your Disqus shortname"
 Summary = true  # takes true or false
