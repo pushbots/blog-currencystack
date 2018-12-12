@@ -1,0 +1,12 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "clearip.io"
+Subtitle = "Your site's subtitle/tagline"
+GithubID = "clearip"
+TwitterID = "getclearip"
+AnalyticsID = "Your Google Analytics tracking code"
+DisqusShortname = "Your Disqus shortname"
+Summary = true  # takes true or false
+Content = true  # takes true or false
+FooterMsg = "by PushBots Inc 2018"
+theme = "hugo-theme-slim"

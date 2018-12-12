@@ -1,0 +1,46 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<title> {{ .Title }} &middot; {{ .Site.Title }} </title>
+
+<!-- CSS -->
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/slim.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/highlight.min.css">
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Source+Code+Pro' rel='stylesheet' type='text/css'>
+<!-- Icons -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+<link rel="shortcut icon" href="/favicon.ico">
+
+<!-- RSS -->
+<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+
+<script>
+    //some default pre init
+    var PB = PB || {};PB.q = PB.q || [];PB.events = PB.events || [];
+    
+    //********** Update these fields ********
+    //PushBots ApplicationId (required)
+    PB.app_id = "5c0fdfe00540a35b5679b417";
+    //Your domain name, must be HTTPS or localhost  (required)
+    PB.domain = "https://blog.clearip.io";
+    //Update and uncomment it if you are using custom safari certificate for your app
+    //PB.safari_push_id = "web.com.pushbots.main";
+    //****************************************
+    
+    PB.logging_enabled = true;
+    PB.auto_subscribe = false;
+    
+    //Custom worker and manifest URL
+    //PB.worker_url = PB.domain + "/pushbots-worker.js";
+    //PB.manifest_url = PB.domain + "/pushbots-push-manifest.json";
+    
+    //Welcome notification message
+    PB.welcome = {title:"Welcome ",message:"Thanks for subscribing!", url :PB.domain};
+    
+    function sendNotification(){
+          PB.register();
+          PB.q.push(["sendNotification", {title:"Hey ",message:"Why not?", url :"https://google.com"}]);
+    }
+    
+    </script>
+    
+    <script src="//cdn.pushbots.com/js/sdk.min.js" type="text/javascript" onload="PB.init()" async></script>
