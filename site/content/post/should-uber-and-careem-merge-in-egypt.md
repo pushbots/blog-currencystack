@@ -1,11 +1,12 @@
 ---
 title: Should Uber and Careem merge in Egypt?
 author: Aly Khairy
-avatar: /img/0.jpeg
 date: 2018-12-13T21:34:22.307Z
 description: Should Uber and Careem merge in Egypt?
 image: /img/0.jpeg
 ---
+![careem](/img/about-single-origin.jpg)
+
 Yes. This is a scenario that’s played out in South East Asia (S.E.A) when Grab gobbled up Uber, so why is the Middle East ripe for such industry consolidation?
 
 Here’s my top 2 reasons why
@@ -37,10 +38,6 @@ Typically, ABC would be unable to raise prices, provided that the alternative be
 Data shows that markets with pressured pricing are typically large metropolitan cities in developing countries, with cheap and accessible taxi services. This is not only true of some key markets in S.E.A, but is also true of Cairo, one of the biggest ride hailing markets in the region and certainly a contested battle ground between Uber and Careem. Unit economics are however more favorable in the Gulf region, with room to undercut local taxi services and still get the contribution margin in the green.
 
 ## \#2 low motorization rate is a structural supply bottleneck
-
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
 
 While unfavorable unit economics might be exclusive to Egypt, markets across the Middle East are capped with limited supply, not unlike S.E.A. with below average motorization rates. This in turn creates two major roadblocks:
 
