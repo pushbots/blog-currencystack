@@ -1,9 +1,10 @@
 ---
 title: Should Uber and Careem merge in Egypt?
 author: Aly Khairy
+avatar: /img/0.jpeg
 date: 2018-12-13T21:34:22.307Z
 description: Should Uber and Careem merge in Egypt?
-image: /img/0.jpeg
+image: ''
 ---
 Yes. This is a scenario that’s played out in South East Asia (S.E.A) when Grab gobbled up Uber, so why is the Middle East ripe for such industry consolidation?
 
