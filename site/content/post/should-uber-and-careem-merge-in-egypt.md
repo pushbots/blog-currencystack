@@ -63,4 +63,4 @@ There is no plug-and-play answer to why this merger should happen, given the dis
 
 
 
-_This article was original published on LinkedIn. _
+_This article was originaly published on LinkedIn. _
