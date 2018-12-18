@@ -5,7 +5,7 @@
     
     {{ .Site.Title }} <span class="grey" style="color:#c7cfe2;" >blog</span></h1>
    </a></h1>
-   <a class="btn next " style="float:right; margin-top:-50px;" href="https://currencystack.io/register?ref=blog"> Try free</a> 
+   <a class="btn next hide" style="float:right; margin-top:-80px; font-size:0.8rem;" href="https://currencystack.io/register?ref=blog"> Try for free</a> 
   <p class="site-tagline">{{ .Site.Params.Subtitle }}</p>
   <!-- <div class="nav">
     <a class="nav-btn" href="#">
@@ -46,13 +46,20 @@
   }
 
   .title{
+    font-size:1.4rem;
+    margin-top:-20px;
+  }
+
+  svg{
+    width:25px;
   }
   
-h1,.post-title a,h2, a{
+h1,.post-title a,h2 {
   color:#001AF9;
       font-family: Slate For OnePlus!important;
 line-height:2.2rem;
 padding-bottom:10px;
+font-size:1.7rem;
 }
 
 a:hover{
@@ -100,6 +107,9 @@ p, ul, li{
 
 
 @media only screen and (max-width: 600px) {
+  .hide{
+    display:none;
+  }
   body {
     padding:12px;
     margin-top:-20px;
