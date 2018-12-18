@@ -9,9 +9,9 @@ description: >
   By comparison, the Mexican peso weakened by more than 16% and the Turkish lira
   lost an almighty 79% of its value. The UK pound fell almost 20% over the past
   three years as Brexit fears wreaked havoc.
-image: /img/images-1-.jpeg
+image: /img/toupload-min.jpg
 ---
-![](/img/images-1-.jpeg)
+![](/img/toupload-min.jpg)
 
 Over the past three years, the rand has been the world's strongest major currency against the dollar.
 
@@ -48,4 +48,4 @@ But there are risks – chief among them, Eskom’s R100 billion debt burden.
 
 Ratings agencies have also been clear that further slippage in terms of property rights could prompt downgrades, Biermann said.  
 
-_This article is written by Business Insider SA. _[_Original Link_](https://www.businessinsider.co.za/rand-outperforms-currencies-over-three-years-2018-12)__
+_This article is written by Business Insider SA._ [Original Link](https://www.businessinsider.co.za/rand-outperforms-currencies-over-three-years-2018-12)
