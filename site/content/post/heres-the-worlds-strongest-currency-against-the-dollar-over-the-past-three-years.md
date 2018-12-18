@@ -11,6 +11,7 @@ description: >
   three years as Brexit fears wreaked havoc.
 image: /img/images-1-.jpeg
 ---
+![](/img/images-1-.jpeg)
 
 Over the past three years, the rand has been the world's strongest major currency against the dollar.
 
