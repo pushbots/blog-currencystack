@@ -9,8 +9,8 @@ description: >
   By comparison, the Mexican peso weakened by more than 16% and the Turkish lira
   lost an almighty 79% of its value. The UK pound fell almost 20% over the past
   three years as Brexit fears wreaked havoc.
+image: /img/images-1-.jpeg
 ---
-![](/img/87f6db6f740a4d238230b98d7f94548c.webp)
 
 Over the past three years, the rand has been the world's strongest major currency against the dollar.
 
@@ -21,6 +21,7 @@ Only the Russian rouble, which gained by 6% over this time,  the euro (+3%) and 
 It is of course worth noting that three years ago the rand was in a very bad state amid the Nenegate crisis.
 
 On December 9th 2015, former president Jacob Zuma fired then finance minister Nhlanhla Nene, replacing him with back-bencher Des van Rooyen. 
+![](/img/87f6db6f740a4d238230b98d7f94548c.webp)
 
 "After all is said and done, the rand has been one of the strongest currencies over the last three years - obviously benefiting from the low base created by Nenegate," Biermann said this week. "Still, not many would've predicted that the rand would outperform these majors in years to come."
 
