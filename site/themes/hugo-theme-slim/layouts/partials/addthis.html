@@ -2,9 +2,9 @@
     <p>Like it? Share it!</p>
 
     <div class="socialbutton-wrapper">
-        <a href="//twitter.com/share?url={{.Site.BaseURL}}{{ .Permalink }}&amp;text={{ .Title }} {{ .Permalink }}&amp;via={{ .Site.Social.twitter }}" target="_blank" class="share-btn twitter">
+        <a href="//twitter.com/share?url={{ .Permalink }}&amp;text={{ .Title }} {{ .Permalink }}&amp;via={{ .Site.Social.twitter }}" target="_blank" class="share-btn twitter">
 
-            <div class="socialbutton twitter" data-share-url="http://www.savjee.be">
+            <div class="socialbutton twitter" data-share-url="{{.Site.Params.FullUrl}}{{ .Permalink }}">
                 <p class="icon">
                     <img src="/img/icon-twitter.png">
                 </p>
@@ -14,7 +14,7 @@
         </a>
 
 
-        <a href="//www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" class="share-btn facebook">
+        <a href="//www.facebook.com/sharer/sharer.php?u=https://{{ .Permalink }}" target="_blank" class="share-btn facebook">
             <div class="socialbutton facebook" data-share-url="{{ .Permalink }}">
                 <p class="icon">
                     <img src="/img/icon-facebook.png">
