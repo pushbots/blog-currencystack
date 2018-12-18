@@ -46,4 +46,4 @@ But there are risks – chief among them, Eskom’s R100 billion debt burden.
 
 Ratings agencies have also been clear that further slippage in terms of property rights could prompt downgrades, Biermann said.  
 
-_This article is written by Business Insider SA. _[_Original Link_](https://www.businessinsider.co.za/rand-outperforms-currencies-over-three-years-2018-12)_ _
+_This article is written by Business Insider SA. _[_Original Link_](https://www.businessinsider.co.za/rand-outperforms-currencies-over-three-years-2018-12)__
