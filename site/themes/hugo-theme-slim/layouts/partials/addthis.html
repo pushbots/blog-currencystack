@@ -2,7 +2,7 @@
     <p>Like it? Share it!</p>
 
     <div class="socialbutton-wrapper">
-        <a href="//twitter.com/share?url={{ .Permalink }}&amp;text={{ .Title }} {{ .Permalink }}&amp;via={{ .Site.Social.twitter }}" target="_blank" class="share-btn twitter">
+        <a href="//twitter.com/share?url={{ .Permalink }}&amp;text={{ .Title }} {{ .Site.Params.FullUrl }}{{ .Permalink }}&amp;via={{ .Site.Social.twitter }}" target="_blank" class="share-btn twitter">
 
             <div class="socialbutton twitter" data-share-url="{{.Site.Params.FullUrl}}{{ .Permalink }}">
                 <p class="icon">
