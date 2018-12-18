@@ -11,7 +11,7 @@ Content = true  # takes true or false
 FooterMsg = "by PushBots Inc 2018"
 theme = "hugo-theme-slim"
 [params]
-fullurl="https://blog.currencystack.io/"
+fullurl="https://blog.currencystack.io"
 [social]
   github           = "jpescador/hugo-future-imperfect"
   twitter = "getcurrencystack"

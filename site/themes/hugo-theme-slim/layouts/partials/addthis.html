@@ -14,7 +14,7 @@
         </a>
 
 
-        <a href="//www.facebook.com/sharer/sharer.php?u=https://{{ .Permalink }}" target="_blank" class="share-btn facebook">
+        <a href="//www.facebook.com/sharer/sharer.php?u={{ .Site.Params.FullUrl }}{{ .Permalink }}" target="_blank" class="share-btn facebook">
             <div class="socialbutton facebook" data-share-url="{{ .Permalink }}">
                 <p class="icon">
                     <img src="/img/icon-facebook.png">
