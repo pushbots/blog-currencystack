@@ -4,6 +4,7 @@
 <head>
   {{ partial "head.html" . }}
   <link rel="stylesheet" type="text/css" href="/css/social.css">
+    <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@currencystack.io">
   <meta name="twitter:creator" content="@currencystackio">
@@ -11,11 +12,12 @@
   <meta name="twitter:description" content=' {{ $.Param "description" }}'>
   <meta name="twitter:image" content='https://blog.currencystack.io{{ $.Param "image" }}'>
   <meta property="og:type" content="article">
-<meta property="og:title" content="{{ .Title }}">
-<meta property="og:description" content='{{ $.Param "description" }}'>
-<meta property="og:url" content="https://blog.currencystack.io{{ .Permalink }}">
-<meta property="og:image" content='https://blog.currencystack.io{{ $.Param "image" }}'>
-<meta property="fb:app_id" content="255633811994517">
+  <!-- facebook -->
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content='{{ $.Param "description" }}'>
+  <meta property="og:url" content="https://blog.currencystack.io{{ .Permalink }}">
+  <meta property="og:image" content='https://blog.currencystack.io{{ $.Param "image" }}'>
+  <meta property="fb:app_id" content="255633811994517">
 
 </head>
 
