@@ -9,9 +9,9 @@ description: >
   By comparison, the Mexican peso weakened by more than 16% and the Turkish lira
   lost an almighty 79% of its value. The UK pound fell almost 20% over the past
   three years as Brexit fears wreaked havoc.
-image: /img/images-1-.jpeg
+image: /img/toupload-min.jpg
 ---
-![](/img/images-1-.jpeg)
+![](/img/toupload-min.jpg)
 
 Over the past three years, the rand has been the world's strongest major currency against the dollar.
 
