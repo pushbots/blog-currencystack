@@ -46,7 +46,7 @@ Data shows that markets with pressured pricing are typically large metropolitan 
 
 While unfavorable unit economics might be exclusive to Egypt, markets across the Middle East are capped with limited supply, not unlike S.E.A. with below average motorization rates. This in turn creates two major roadblocks:
 
-Operating below the liquidity threshold: Less drivers raises a ridehailing company’s average wait time, rendering its network inefficient.
+Operating below the liquidity threshold: Less drivers raises a ride-hailing company’s average wait time, rendering its network inefficient.
 
 CAC inflation: Limited supply can take a further toll on CAC \[ 2 sided-marketplace CAC = spending on user acquisition + spending on driver acquisition]. The scarcer the drivers, the higher the spending.
 
@@ -56,4 +56,4 @@ Egypt, Saudi and Turkey are collectively 58% below the average global motorizati
 
 There is no plug-and-play answer to why this merger should happen, given the disparity in market structures across the region, but with most countries coming short on pricing, supply, or both, the region is ripe for consolidation.
 
-_This article was originaly published on LinkedIn._
+_This article was originally published on Pixels & Caps._
