@@ -1,5 +1,5 @@
 ---
-title: 'World''s strongest currency against the dollar over the past three years. '
+title: World's strongest currency against the dollar
 author: Business Insider SA
 avatar: /img/gea0yeer_400x400.jpg
 date: 2018-12-18T01:01:15.525Z
