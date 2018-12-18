@@ -8,6 +8,8 @@
 <body>
   <div class="container">
     {{ partial "header.html" . }}
+    {{ partial "addthis" . }}
+
     <div class="content">
       <div class="posts">
         <div class="post">
@@ -56,6 +58,8 @@
    document.getElementById("readTime").innerHTML = timeInt;
   </script>
   {{ with .Site.Params.AnalyticsID }}{{ partial "analytics.html" . }}{{ end }}
+  {{ partial "addthis-script" . }}
+
 </body>
 
 </html>

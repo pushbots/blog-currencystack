@@ -10,3 +10,4 @@ Summary = true  # takes true or false
 Content = true  # takes true or false
 FooterMsg = "by PushBots Inc 2018"
 theme = "hugo-theme-slim"
+addThis = "ra-5c184c7e824cfa0a"
