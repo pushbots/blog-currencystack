@@ -4,7 +4,7 @@ author: Aly Khairy
 avatar: /img/0.jpeg
 date: 2018-12-13T21:34:22.307Z
 description: Should Uber and Careem merge in Egypt?
-image: /img/0.jpeg
+image: /img/0-1-.jpeg
 ---
 ![careem](/img/0-1-.jpeg)
 
