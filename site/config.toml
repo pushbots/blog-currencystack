@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://blog.currencystack.io"
 languageCode = "en-us"
 title = "currencystack.io"
 Subtitle = "Your site's subtitle/tagline"
