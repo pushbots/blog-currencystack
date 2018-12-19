@@ -27,14 +27,13 @@
 <style>
   @font-face{
     font-family:Slate For OnePlus;
-    src:url(/fonts/SlateForOnePlusMedium.woff2) format("woff2"),url(/fonts/SlateForOnePlusMedium.woff) format("woff");
-    font-weight:500;
+    src:url(/fonts/SlateForOnePlusMedium.woff2) format("woff2"),url(/fonts/SlateForOnePlusMedium.woff) format("woff"), url(/fonts/SlateForOnePlusMedium.ttf)  format('truetype');
     font-style:normal
 }
 @font-face{
     font-family:Slate;
-    src:url(/fonts/SlateForOnePlus-Regular.woff2) format("woff2"),url(/fonts/SlateForOnePlus-Regular.woff) format("woff");
-    font-weight:400;
+    src:url(/fonts/SlateForOnePlus-Regular.woff2) format("woff2"),url(/fonts/SlateForOnePlus-Regular.woff) format("woff"),  url(/fonts/SlateForOnePlus-Regular.ttf)  format('truetype');;
+    font-weight:300;
     font-style:normal
 }
 .post-content img{
@@ -43,8 +42,15 @@
 
   body, html{
     background:white;
-    font-family:Slate;
+    -webkit-font-smoothing: antialiased!important;
+  -moz-osx-font-smoothing: grayscale!important;
+  font-family: "Slate";
 
+
+  }
+
+  .footer p a{
+    color:#E0E0E0;
   }
 
   .title{
