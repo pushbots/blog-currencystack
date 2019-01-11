@@ -8,6 +8,8 @@ description: >-
   three hundred and sixty-five days a year.
 image: /img/freddie-collins-309833-unsplash.jpg
 ---
+![](/img/freddie-collins-309833-unsplash.jpg)
+
 $3 trillion dollars are traded each day on the foreign exchange market.
 
 That’s trillion with a T.
@@ -38,7 +40,7 @@ They use JSON to deliver data, so it’s easy for anyone with a JSON library to 
 
 And they do it all in real time.  
 
-## How to get started? 
+## How to get started?
 
 1. Create a free account on currencystack.io [here](https://currencystack.io/register?ref=blog).  
 2. Open your terminal app and run this after you replace your API key
