@@ -1,7 +1,7 @@
 ---
 title: Lessons From the Crash of the Cryptocurrencies
 author: Crispus Nyaga
-avatar: /img/5b633ecc08347ecf12dc974c2299740a.jpeg
+authorAvatar: /img/5b633ecc08347ecf12dc974c2299740a.jpeg
 date: 2018-12-24T15:21:12.981Z
 description: >
   After being the best-performing asset class in 2017, this year has been the
@@ -11,7 +11,6 @@ description: >
   continued to happen in the crypto industry.
 image: /img/photo-1518483239595-6f1f9e80b7c7.jpeg
 ---
-![](/img/photo-1518483239595-6f1f9e80b7c7.jpeg)
 
 After being the best-performing asset class in 2017, this year has been the worst for cryptocurrencies. The total market capitalization of the currencies has declined from more than $850 billion in January to the current $110 billion. The decline has been caused by a series of negative events that have continued to happen in the crypto industry.
 

@@ -1,14 +1,13 @@
 ---
 title: How Fintech Developers can Tap into The Global Market
 author: 'Mollie Green '
-avatar: /img/7f89e9e590eac9998ca498ff2b2ab0ed-1-.png
+authorAvatar: /img/7f89e9e590eac9998ca498ff2b2ab0ed-1-.png
 date: 2019-01-10T23:54:54.098Z
 description: >-
   The global marketplace is open twenty-four hours a day, seven days a week,
   three hundred and sixty-five days a year.
 image: /img/freddie-collins-309833-unsplash.jpg
 ---
-![](/img/freddie-collins-309833-unsplash.jpg)
 
 $3 trillion dollars are traded each day on the foreign exchange market.
 
