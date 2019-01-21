@@ -1,17 +1,14 @@
 ---
 title: World's strongest currency against the dollar
 author: Business Insider SA
-avatar: /img/gea0yeer_400x400.jpg
+authorAvatar: /img/gea0yeer_400x400.jpg
 date: 2018-12-18T01:01:15.525Z
 description: >
   The rand has strengthened by almost 6.3% against the dollar since mid-December
   2015, according to data compiled by the independent analyst Johann Biermann.
-  By comparison, the Mexican peso weakened by more than 16% and the Turkish lira
-  lost an almighty 79% of its value. The UK pound fell almost 20% over the past
-  three years as Brexit fears wreaked havoc.
+ 
 image: /img/toupload-min.jpg
 ---
-![](/img/toupload-min.jpg)
 
 Over the past three years, the rand has been the world's strongest major currency against the dollar.
 

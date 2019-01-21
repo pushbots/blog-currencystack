@@ -4,10 +4,12 @@ languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
+canonifyurls    = true
 
 [params]
-  title       = "CurrencyStack Blog"
-  subtitle    = "A free modern currency data API for fintech apps."
+  title       = "Hugo Casper Two"
+  subtitle    = "Port of Casper 2.x for Hugo"
+  copyright   = "© 2018"
 
   cover       = "img/blog-cover.jpg"
   description = "Here is a description of your site."
@@ -16,20 +18,24 @@ paginate        = 6
   customCSS = []
   RSSLink = ""
 
-  twitterName = "getclearip"
-  fbName = ""
-  githubName = "clearip"
+  twitterName = "faketryghost"
+  fbName = "fakeghost"
+  githubName = "eueung"
+  linkedinName = "eueung"
+  mediumName = ""
 
-  logo = "clearip-logo-w.png"
+  logo = "hugo-logo.png"
   orgName = "EM"
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
+
+  showSupport = true
 
   author = "EM"
   authorAvatar = "img/ghost-icon.png"
   authorLocation = "Bandung, ID"
   authorWebsite = "https://eueung.github.io"
-  authorDescription = "Clearip Team"
+  authorDescription = "Your description here"
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -37,7 +43,7 @@ paginate        = 6
   singleViewStyle = "casper"
 
 [permalinks]
-  post = "/:slug/"
+  post = "/post/:slug/"
 
 [[menu.main]]
   name = "Home"
@@ -45,7 +51,18 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "Try for free"
-  url = "https://currencystack.io/register"
-  weight = 199
+  name = "Go"
+  url = "/tags/golang/"
+  weight = 100
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 99
+
+[[menu.main]]
+  name = "External"
+  url = "https://google.com/"
+  weight = 95
+
 
