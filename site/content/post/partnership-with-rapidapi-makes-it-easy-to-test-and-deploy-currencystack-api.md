@@ -8,6 +8,7 @@ description: >
   currency exchange rates for 154 world currencies for any programming
   environment . RapidAPI lets developers find and connect to APIs and manage
   multiple API connections in one place.
+image: /img/rapidapi.png
 ---
 RapidAPI is an API Marketplace for developers to find, connect, and manage their API connections. Find the APIs that you need for your project, embed the API into your app, and track usage of all your APIs through a single dashboard.
 
