@@ -28,3 +28,5 @@ Here are a few perks of using CurrencyStack through Rapid API:
 * You get to manage all of them from one single platform
 * The billing for all the APIs you use are all organized in one place
 * You receive great customer support from an excellent team of developers
+
+![](/img/connect-on-rapidapi.png)
