@@ -24,9 +24,10 @@ Currency data delivered by currencystack.io is sourced from top-level financial 
 
 Here are a few perks of using CurrencyStack through Rapid API:
 
-* Through Rapid API, you can discover useful APIs and connect them faster
+* Through RapidAPI, you can discover useful APIs and connect them faster
 * You get to manage all of them from one single platform
 * The billing for all the APIs you use are all organized in one place
 * You receive great customer support from an excellent team of developers
 
-![](/img/rsz_connect-on-rapidapi.png)
+
+[![CurrencyStack on RapidAPI](/img/rsz_connect-on-rapidapi.png)](https://rapidapi.com/Currencystack/api/currencystack)
