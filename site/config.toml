@@ -16,9 +16,9 @@ paginate        = 6
   customCSS = []
   RSSLink = ""
 
-  twitterName = "getclearip"
+  twitterName = "currencystackio"
   fbName = ""
-  githubName = "clearip"
+  githubName = "currencystack"
 
   logo = "clearip-logo-w.png"
   orgName = "EM"
