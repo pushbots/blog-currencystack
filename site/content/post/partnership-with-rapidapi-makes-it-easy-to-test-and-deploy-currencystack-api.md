@@ -30,4 +30,4 @@ Here are a few perks of using CurrencyStack through Rapid API:
 * You receive great customer support from an excellent team of developers
 
 
-[![CurrencyStack on RapidAPI](/img/rsz_connect-on-rapidapi.png)](https://rapidapi.com/Currencystack/api/currencystack)
+[![](/img/rsz_connect-on-rapidapi.png)](https://rapidapi.com/Currencystack/api/currencystack)
