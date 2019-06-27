@@ -1,7 +1,6 @@
 ---
 title: Partnership with RapidAPI Makes it Easy to Test and Deploy CurrencyStack API
 author: 'Mollie Green '
-authorAvatar: /img/7f89e9e590eac9998ca498ff2b2ab0ed-1-.png
 date: 2019-06-26T18:38:47.332Z
 description: >
   Currencystack is partnering with RapidAPI to provide developers with reliable
