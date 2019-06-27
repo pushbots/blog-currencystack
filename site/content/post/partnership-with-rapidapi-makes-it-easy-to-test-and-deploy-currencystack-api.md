@@ -1,7 +1,7 @@
 ---
 title: Partnership with RapidAPI Makes it Easy to Test and Deploy CurrencyStack API
 author: Mollie Green
-avatar: /img/7f89e9e590eac9998ca498ff2b2ab0ed-1-.png
+avatar: ''
 date: 2019-06-26T18:38:47.332Z
 description: >
   Currencystack is partnering with RapidAPI to provide developers with reliable
@@ -29,4 +29,4 @@ Here are a few perks of using CurrencyStack through Rapid API:
 * The billing for all the APIs you use are all organized in one place
 * You receive great customer support from an excellent team of developers
 
-![](/img/connect-on-rapidapi.png)
+![](/img/rsz_connect-on-rapidapi.png)
