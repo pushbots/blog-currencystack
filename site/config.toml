@@ -46,6 +46,6 @@ paginate        = 6
 
 [[menu.main]]
   name = "Try for free"
-  url = "https://currencystack.io/register"
+  url = "https://app.currencystack.io/register?ref=blog"
   weight = 199
 
